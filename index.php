@@ -5,7 +5,7 @@
 </head>
 <body>
 <?php
-$host = 'your-rds-endpoint'; // עדכני לכאן את כתובת ה־RDS
+$host = bar-database-1.cx248m4we6k7.us-east-1.rds.amazonaws.com; // עדכני לכאן את כתובת ה־RDS
 $user = admin    // למשל: admin
 $password = Bar8873856; // סיסמה של המשתמש
 $dbname = schema; // למשל: People
